@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HairAppointments</string>
+    <string name="appointment_details">
+     Welcome Back! Was there a mistake made in booking your appointment?
+        Feel free to update the date and style. Prices will adjust automatically.
+        See you soon!
+    </string>
+</resources>
